@@ -12,7 +12,7 @@ This repository contains my completed programming assignments (Jupyter Notebooks
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 ### [1. Neural Networks and Deep Learning](./1-Neural-Networks-and-Deep-Learning)
 Focuses on the foundational concepts of Deep Learning.
@@ -38,7 +38,7 @@ Building models for natural language and sequential data.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Libraries:** NumPy, TensorFlow, Keras, Matplotlib
 * **Platform:** Jupyter Notebooks / Google Colab
