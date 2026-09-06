@@ -1,7 +1,5 @@
 # Course 4: Convolutional Neural Networks
 
-✅ **Status: Completed**
-
 This directory contains the core programming assignments for the fourth course of the specialization. These labs focus on how computer vision has evolved, covering foundational CNN layers, deep convolutional architectures, object detection, and special applications.
 
 ### Labs Overview
