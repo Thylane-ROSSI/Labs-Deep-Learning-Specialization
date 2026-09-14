@@ -8,7 +8,7 @@ This repository contains my completed programming assignments (Jupyter Notebooks
 * **Course 2: Improving Deep Neural Networks** — ✅ [Completed (Verify Certificate)](https://www.coursera.org/account/accomplishments/verify/Q07L3PEHNJMK)
 * **Course 3: Structuring Machine Learning Projects** — ✅ [Completed (Verify Certificate)](https://www.coursera.org/account/accomplishments/verify/3F4FEQQPV5FU)
 * **Course 4: Convolutional Neural Networks** — ✅ [Completed (Verify Certificate)](https://www.coursera.org/account/accomplishments/verify/SVPBJMUJLM20)
-* **Course 5: Sequence Models** — ⏳ In Progress
+* **Course 5: Sequence Models** — ✅ [Completed (Verify Certificate)](https://www.coursera.org/account/accomplishments/verify/73TKWWLPWZYN)
 
 ---
 
